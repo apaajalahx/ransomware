@@ -1,3 +1,11 @@
-#Welcome to the jungle
+# Welcome to the jungle
 
-ya intinya ini tuh ransomware wekwkekw
+## Encrypt
+```
+python3 ransom.py --path /home/user/ransom/test_ransom --extension memek --encrypt
+```
+
+## Decrypt
+```
+python3 ransom.py --path /home/user/ransom/test_ransom --decrypt
+```
